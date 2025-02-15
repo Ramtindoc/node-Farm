@@ -1,3 +1,6 @@
 # " مزرعه شاد "
 ### یک مزرعه برای خرید محصولات ارگانیک و غیر ارگانیک .
-![node-farm demo](Uploading bandicam 2025-02-15 19-58-13-157.jpg…)
+![node-farm demo is added](https://myoctocat.com/assets/node-farm-demo.jpg)
+
+![node-farm demo is added](https://myoctocat.com/assets/node-farm-cards-demo.jpg)
+
